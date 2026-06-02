@@ -24,3 +24,8 @@ This project demonstrates a basic chat system using **Python sockets** for netwo
 1. Start the **server**:
    ```bash
    python server.py
+
+2. Run the client with Streamlit
+   '''bash
+   streamlit run client.py
+
